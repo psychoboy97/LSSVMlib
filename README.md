@@ -25,7 +25,7 @@ smooth integration with scikit-learn based projects.
 Please open an issue if you encounter a bug.
 
 ## Contact 
- - Author : *Danny E.P. Vanpoucke*
+ - All credit goes to the author : *Danny E.P. Vanpoucke*
  - Twitter: [@DelocalizedD](https://twitter.com/DelocalizedD)
  - [Website](https://Dannyvanpoucke.be)
  - [Github](https://github.com/DannyVanpoucke)
